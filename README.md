@@ -8,8 +8,8 @@ Cada arquivo corresponde à uma lista de exercícios, que serão executados atra
 Segue como os arquivos estão identificados:
 Exemplo: 
 
-        Lista 1 Módulo01 = ex01_M1.js 
-        Lista 2 Módulo01 = ex02_M1.js
+        Lista 1 Módulo01 = ex01M1.js 
+        Lista 2 Módulo01 = ex02M1.js
 
 E assim por diante.
 ## Como executar
