@@ -142,7 +142,7 @@ function calculoMacas(){
     if (qtd < 12){
         total = qtd * 0.30
         console.log(`${qtd} maças por R$0,30/un
-                    Total compra: R$${total.toFixed(2)}`)        
+                    Total compra: R$${total.toFixed(2)}`)
     } else {
         total = qtd * 0.25
         console.log(`${qtd} maças por R$0,25/un
@@ -156,7 +156,7 @@ e escreve-los em ordem crescente.*/
 function ordemCrescente(){
     console.log("EXERCÍCIO 8: Ler 2 valores diferentes e colocar em ordem crescente.")
     let valor1 = Number(prompt("Digite o primeiro valor: "))
-    let valor2 = Number(prompt("Digite o segundo valor: "))  
+    let valor2 = Number(prompt("Digite o segundo valor: "))
 
     if (valor1 !== valor2){
         if (valor1 > valor2){
