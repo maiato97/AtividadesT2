@@ -1,4 +1,4 @@
-// Atividades Módulo01 - +praTi
+// Atividades(1) Módulo01 - +praTi
 const prompt = require("prompt-sync")()
 
 /*1. Escreva um programa que recebe um número inteiro e verifica se ele é par ou ímpar
